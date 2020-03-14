@@ -1,0 +1,17 @@
+POST http://localhost:3001/db/
+Content-Type: application/json
+
+{
+    "name": "provola"
+}
+
+
+
+# [
+#     {
+#         "name": "provola"
+#     },
+#     {
+#         "name": "salame"
+#     }
+# ]
