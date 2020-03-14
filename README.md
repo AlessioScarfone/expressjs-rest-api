@@ -1,11 +1,12 @@
 # Simple REST API with NodeJS and Express
 
+Start with `npm run start`
+
 ## Resources: 
 
-**REST:**:
-    - [REST API Guide](https://dev.to/drminnaar/rest-api-guide-14n2)
-    - [HTTP Methods](https://restfulapi.net/http-methods/)
-    - [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/?utm_source=linkedin&utm_medium=social&utm_campaign=so-blog)
+- [REST API Guide](https://dev.to/drminnaar/rest-api-guide-14n2)
+- [HTTP Methods](https://restfulapi.net/http-methods/)
+- [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/?utm_source=linkedin&utm_medium=social&utm_campaign=so-blog)
 
 
 ## NOTE
