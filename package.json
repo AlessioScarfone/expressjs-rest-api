@@ -1,7 +1,7 @@
 {
   "name": "express-api",
   "version": "0.0.1",
-  "description": "Building a simple REST API with NodeJS and Express",
+  "description": "A simple REST API with NodeJS and Express",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js --exec babel-node --presets babel-preset-env",
