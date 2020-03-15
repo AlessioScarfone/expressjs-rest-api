@@ -1,7 +1,7 @@
 import express from 'express'
 import unknownEndpoint from './middleware/unknownEndpoint'
 import dotenv from 'dotenv'
-import router from './routes/routes';
+import router from './routes/routes_db';
 
 // =========== CONSTANT ===========
 // const PORT = 3001
